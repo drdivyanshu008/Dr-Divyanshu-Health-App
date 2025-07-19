@@ -1,4 +1,4 @@
-# Dr. Divyanshu – 5D Integrative Health Mobile App
+# Dr. Divyanshu – Integrative Health Mobile App
 
 A comprehensive health application integrating Ayurveda, Naturopathy, Acupuncture, Nutrition, and modern medical practices.
 
