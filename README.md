@@ -121,8 +121,8 @@ Free download/view of authored books:
 
 3. **Configure Android SDK**
    ```bash
-   export ANDROID_HOME=C:/Users/yourUsername/AppData/Local/Android/Sdk
-   export PATH=$PATH:$ANDROID_HOME/cmdline-tools/latest/bin
+   export ANDROID_HOME=C:/Users/YOUR_USERNAME/AppData/Local/Android/Sdk"
+   export PATH=$PATH:$ANDROID_HOME/tools/latest/bin
    export PATH=$PATH:$ANDROID_HOME/platform-tools
    ```
 
@@ -139,7 +139,7 @@ Free download/view of authored books:
    # Release APK
    flutter build apk --release
    
-   # Split APKs by ABI
+   # Split APKs by ABI(for Play Store)
    flutter build apk --split-per-abi
    ```
 
